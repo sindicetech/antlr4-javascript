@@ -1,6 +1,6 @@
 {
-  "name": "antlr4-szydan",
-  "version": "4.5.3szydan",
+  "name": "antlr4",
+  "version": "4.5.4szydan",
   "description": "JavaScript runtime for ANTLR4",
   "main": "src/antlr4/index.js",
   "repository": "sindicetech/antlr4-javascript.git",
