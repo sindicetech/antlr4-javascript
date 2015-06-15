@@ -1,6 +1,6 @@
 {
-  "name": "antlr4",
-  "version": "4.5.2szydan",
+  "name": "antlr4-szydan",
+  "version": "4.5.3szydan",
   "homepage": "https://github.com/sindicetech/antlr4-javascript",
   "authors": [
     "Szymon Danielczyk <danielczyk.szymon@gmail.com>"

@@ -1,0 +1,19 @@
+{
+  "name": "antlr4-szydan",
+  "version": "4.5.3szydan",
+  "description": "JavaScript runtime for ANTLR4",
+  "main": "src/antlr4/index.js",
+  "repository": "sindicetech/antlr4-javascript.git",
+  "keywords": [
+    "lexer",
+    "parser",
+    "antlr",
+    "antlr4",
+    "grammar"
+  ],
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/sindicetech/antlr4-javascript/issues"
+  },
+  "homepage": "https://github.com/sindicetech/antlr4-javascript"
+}
