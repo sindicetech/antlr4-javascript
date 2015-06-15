@@ -1,0 +1,22 @@
+{
+  "name": "antlr4",
+  "version": "4.5.1",
+  "homepage": "https://github.com/sindicetech/antlr4-javascript",
+  "authors": [
+    "Szymon Danielczyk <danielczyk.szymon@gmail.com>"
+  ],
+  "main": "src/antlr4/index.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
