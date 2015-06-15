@@ -22,7 +22,7 @@
 
   // Make it to work in node and browser and AMD style
   if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
-    module.exports.antlr4 = antlr4;
+    module.exports = antlr4;
   } else {
     if (typeof define === 'function' && define.amd) {
       define([], function () {
